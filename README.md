@@ -14,4 +14,4 @@ This repository indexes selected projects and work samples.
 
 ## Contact
 
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/nikolasjeroma/)
