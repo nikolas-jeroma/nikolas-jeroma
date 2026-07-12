@@ -8,7 +8,7 @@ This repository indexes selected projects and work samples.
 
 - **[E-Learning Expertise Finder](https://github.com/nikolas-jeroma/elearning-expertise-finder)** — HTML prototype of interactive map and search tool for browsing university digitalization expertise, built with Claude Code
 - **[Moodle Customization](https://github.com/nikolas-jeroma/moodle-customization)** — SCSS styling for a Moodle LMS
-- **[Knowledge Management Showcase](#)** — Curated notes from an Obsidian vault, documenting technical subjects for structured, easy-access reference
+- **[Knowledge Management Showcase](https://github.com/nikolas-jeroma/tech-learning)** — Curated notes from an Obsidian vault, documenting technical subjects for structured, easy-access reference
 - **[KSP Reference Manual](#)** — Scripting language reference manual authored for Native Instruments' Kontakt Script Processor
 - **[NI Spotlight Collection](#)** — Selected instrument projects and code snippets from Native Instruments
 
